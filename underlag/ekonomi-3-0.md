@@ -29,9 +29,7 @@ https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsfo
 
 ### 2.2 Dagens föräldrapenning
 
-Försäkringskassans årsredovisning 2025 anger faktiskt utfall för föräldrapenning till **33 686 mnkr**.
-
-Samma årsredovisning redovisar **3 552 mnkr** i statlig ålderspensionsavgift för föräldrapenning.
+Försäkringskassans årsredovisning 2025 anger faktiskt utfall för föräldrapenning till **33 686 mnkr**. Samma årsredovisning redovisar **3 552 mnkr** i statlig ålderspensionsavgift för föräldrapenning.
 
 Det ger ett observerat statligt utgiftsankare på **37,238 mdkr** för föräldrapenning + dess statliga ålderspensionsavgift 2025.
 
@@ -49,15 +47,13 @@ Budgetpropositionen för 2026 budgeterar:
 
 2026-budgeten används som känslighets-/rimlighetskontroll, inte som ersättning för observerat 2025-utfall.
 
-Källa: Regeringen, *Budgetpropositionen för 2026*, utgiftsområde 12:
-https://www.regeringen.se/contentassets/3416d1df56ae4fcaacf03ecd8ed81ab1/budgetpropositionen-for-2026-prop.-2025261-hela-dokumentet_.pdf
+Källa: Regeringen, *Budgetpropositionen för 2026*, utgiftsområde 12.
 
 ### 2.4 Arbetsgivaravgifter
 
 Full arbetsgivaravgift är **31,42 procent** 2026 för de normala åldersgrupper som är relevanta för modellen. För en statlig arbetsgivare ska denna redovisas i arbetsgivarmyndighetens bruttobudget, men den får inte mekaniskt behandlas som en lika stor samhällsekonomisk nettokostnad eftersom delar är interna flöden inom offentlig sektor.
 
-Källa: Skatteverket, arbetsgivardeklaration 2026 (SKV 448):
-https://skatteverket.se/download/18.1522bf3f19aea8075ba32c5/1765961519362/forenklad-arbetsgivardeklaration-for-privata-tjanster-skv448-utgava31.pdf
+Källa: Skatteverket, arbetsgivaravgifter 2026.
 
 ## 3. Reformens hårda kärna – reproducerbar beräkning
 
@@ -93,69 +89,166 @@ Detta tal är matematiskt korrekt men säger ännu inte reformens nettoeffekt mo
 Ekonomi 3.0 ska redovisa fyra nivåer separat.
 
 ### A. Kostnad per barn
-
 Den mest stabila enheten. Alla grundposter räknas först per barn.
 
 ### B. Kostnad per födelsekohort
-
 Per-barnskostnaden multipliceras med exempelvis faktisk kohort 2025 och med en normaliserad kohort för känslighetsanalys.
 
 ### C. Årligt kassaflöde i ett moget reformsystem
-
 När reformen varit i kraft tillräckligt länge beräknas vilka kohorter och restsystem som faktiskt belastar samma kalenderår. Först här får jämförelse göras med dagens årliga statsbudgetutfall.
 
 ### D. Konsoliderad offentlig sektor och Sverige totalt
-
 Skatter, arbetsgivaravgifter, kommunala skatteintäkter, statliga interna flöden och kostnader som idag ligger på arbetsmarknaden hålls isär. Arbetsgivarens avlastning är en relevant fördelningseffekt men får inte automatiskt bokföras som en samhällsekonomisk besparing.
 
 ## 6. Basjämförelsen ska vara konservativ
 
-Grundscenariot får **inte** tillgodoräkna reformen:
-
-- högre fertilitet,
-- högre framtida sysselsättning,
-- produktivitetsvinster,
-- lägre sjukskrivning,
-- bättre barns framtida inkomster,
-- jämställdhetsvinster i kronor,
-- lägre personalomsättning hos privata arbetsgivare,
-- lägre administration utan verifierad kalkyl.
+Grundscenariot får **inte** tillgodoräkna reformen högre fertilitet, högre framtida sysselsättning, produktivitetsvinster, lägre sjukskrivning, bättre barns framtida inkomster, jämställdhetsvinster i kronor, lägre personalomsättning hos privata arbetsgivare eller lägre administration utan verifierad kalkyl.
 
 Dessa effekter kan vara sannolika eller värdefulla, men ska redovisas separat som `ej prissatta möjliga effekter` tills kausalt och kvantitativt stöd finns.
 
 Detta är en styrka i modellen: **grundförslaget måste kunna bedömas utan att framtida nyttor används som budgetplugg.**
 
-## 7. Nästa beräkning – kohorten i dagens system
+## 7. Kohorten i dagens system – första riktiga rekonstruktionen
 
-Den centrala öppna frågan är nu:
+Här finns nu ett mycket bättre kvantitativt ankare.
 
-> **Hur stor offentlig kostnad genererar ett genomsnittligt barn under hela den föräldrapenningrätt som vår reform ersätter eller avskaffar?**
+SCB:s jämställdhetsstatistik, med Försäkringskassan som källa, redovisar genomsnittligt uttag för **barn födda 2017** fram till uppnådd ålder 8 år:
 
-För att svara måste vi bygga dagens kostnad per barn/kohort, inte dividera ett kalenderårs föräldrapenningutgift med samma års födda.
+| Uppnådd ålder | Kvinnor | Män | Totalt |
+|---:|---:|---:|---:|
+| 0 | 7 | 0 | 7 |
+| 1 | 202 | 27 | 230 |
+| 2 | 52 | 45 | 97 |
+| 3 | 13 | 12 | 25 |
+| 4 | 19 | 18 | 37 |
+| 5 | 4 | 5 | 10 |
+| 6 | 3 | 4 | 7 |
+| 7 | 3 | 3 | 6 |
+| 8 | 3 | 3 | 6 |
+| **Totalt** | **306** | **119** | **424** |
 
-Minimikrav:
+Källa: SCB, *På tal om kvinnor och män 2026*, tabellen `Föräldrapenningdagar för barn med födelseår 2017`, källa Försäkringskassan.
+https://www.scb.se/hitta-statistik/statistik-efter-amne/befolkning-och-levnadsforhallanden/jamstalldhet/jamstalldhetsstatistik/produktrelaterat/rapporter/kvinnor-och-man-2026
 
-1. uttagna föräldrapenningdagar per barn över barnets ålder,
-2. genomsnittlig ersättning per dag/ersättningsnivå,
-3. hur mycket av uttaget som ligger 0–12, 12–24 och >24 månader,
-4. statlig ålderspensionsavgift kopplad till dessa utbetalningar,
-5. vilka rättigheter reformen faktiskt ersätter respektive lämnar kvar,
-6. kohortstorlek och flerbarnsfrekvens.
+Försäkringskassans *Socialförsäkringen i siffror 2026* bekräftar samma mönster: de flesta dagarna används under första levnadsåret och från tre års ålder tar kvinnor och män i genomsnitt lika många dagar.
 
-När detta finns kan `dagens kostnad per barn` jämföras med `reformens kostnad per barn` utan tidsdimensionsfel.
+### 7.1 Ett viktigt resultat: 480 dagar är rättigheten, inte den genomsnittliga kostnaden
 
-## 8. Första dom efter revision
+2017-kohorten hade vid åtta års ålder i genomsnitt använt **424 nettodagar**, alltså cirka **88 procent av 480-dagarsramen**. Det är därför fel att prissätta dagens system som om varje barn genererar 480 fullt uttagna dagar.
 
-Ekonomi 2.0:s slutsats att dagens direkta finansiering (~41,3 mdkr) och reformen (~40,0 mdkr) ligger nära varandra är **inte tillräckligt robust för att användas som slutsats**. Den ska betraktas som en tidigare hypotes.
+Reglerna för 2017-kohorten innebär att den återstående möjligheten efter åtta års ålder kan ge ytterligare uttag, eftersom dagens regler tillåter uttag längre. 424 ska därför behandlas som ett starkt empiriskt ankare, inte som ett slutligt livstidsmaximum.
 
-Det vi redan kan säga säkert är:
+### 7.2 När dagarna tas ut
+
+Av de 424 observerade nettodagarna ligger:
+
+- 237 dagar vid uppnådd ålder 0–1,
+- ytterligare 97 dagar vid ålder 2,
+- 90 dagar vid ålder 3–8.
+
+Det betyder att ungefär **79 procent** av det observerade uttaget ligger till och med uppnådd ålder 2, medan ungefär **21 procent** ligger senare.
+
+Det bekräftar att reformen inte bara ersätter en ettårig kontantström; den avskaffar eller förändrar även en lång svans av senare uttag.
+
+## 8. Vad kostar 424 dagar i dagens penningvärde? – första scenario, inte slutresultat
+
+Försäkringskassan redovisar för 2025:
+
+- cirka **44 miljoner** nettodagar med föräldrapenning,
+- **33,7 mdkr** utbetalt,
+- kvinnors genomsnittliga dagbelopp **716 kr**,
+- mäns genomsnittliga dagbelopp **900 kr**.
+
+Det observerade kalenderårsgenomsnittet ligger därmed omkring **770 kr per nettodag**. Detta är ett användbart grovt prisankare men inte ett perfekt kohortpris, eftersom ersättningen varierar med förälderns inkomst, kön, barnets ålder och typ av dag.
+
+Om 424 dagar enbart som känslighetsberäkning värderas till cirka 770 kr/dag blir kontant föräldrapenning:
+
+`424 × 770 ≈ 326 500 kr per barn`
+
+Vid 97 491 barn motsvarar detta cirka **31,8 mdkr per kohort**.
+
+Om 2025 års observerade relation mellan statlig ålderspensionsavgift och föräldrapenning används proportionellt (`3,552 / 33,686 ≈ 10,54 %`) blir ett grovt offentligt ankare:
+
+- kontant föräldrapenning: **~326 500 kr/barn**,
+- statlig ålderspensionsavgift: **~34 400 kr/barn**,
+- tillsammans: **~360 900 kr/barn**,
+- motsvarande **~35,2 mdkr** för en kohort om 97 491 barn.
+
+**Detta är scenario A, inte huvudresultatet.** Nästa version ska prissätta dagarna efter barnets ålder och ersättningsnivå i stället för att använda ett enda kalenderårsgenomsnitt.
+
+## 9. Första äpplen-mot-äpplen-signalen
+
+Reformens rena grundlön är **343 200 kr per barn**. Redan den posten ligger alltså ungefär **17 000 kr över** scenario A:s skattade kontanta föräldrapenning på cirka 326 500 kr, men under dagens skattade kontantutbetalning inklusive statlig ålderspensionsavgift (~360 900 kr).
+
+När reformens semester, tjänstepension, flerbarnskapacitet, sjuk/reservomsorg och administration läggs till kommer reformens direkta bruttokostnad därför sannolikt att ligga **över dagens rena statliga föräldrapenning + pensionsavgift**, om scenario A ligger nära verkligheten.
+
+Det är ett viktigt fynd. Ekonomi 3.0 ska inte längre utgå från hypotesen att reformen är direkt budgetneutral.
+
+Samtidigt saknas fortfarande flera poster på dagens sida som måste hållas separata och källsäkras innan nettodomen:
+
+- arbetsmarknadsfinansierad föräldralön,
+- arbetsmarknadsfinansierade pensionspremier under ledighet,
+- faktisk FK-administration hänförlig till föräldrapenning,
+- eventuell förändring av skatteintäkter när en skattepliktig lön ersätter en skattepliktig transferering,
+- hur arbetsgivaravgifter ska konsolideras mellan staten och övrig offentlig sektor.
+
+Dessa får inte antas bort, men inte heller fyllas med önsketänkta schabloner.
+
+## 10. Storleksordning – vad måste vi förklara?
+
+Om Ekonomi 2.0:s preliminära reformkostnad runt **40,0 mdkr** skulle överleva detaljrevisionen, medan dagens kohortkostnad för föräldrapenning + statlig ålderspensionsavgift hamnar omkring **35,2 mdkr**, är det preliminära gapet ungefär:
+
+**+4,8 mdkr per årskohort**
+
+eller cirka:
+
+**+49 000 kr per barn.**
+
+Detta är ännu **inte ett resultat** eftersom reformens 40,0 mdkr innehåller flera 🟡/🔴-poster och dagens 35,2 mdkr bygger på scenario A. Men det är nu rätt storleksordning att försöka slå sönder.
+
+Det är också en mer trovärdig arbetsfråga än den gamla `40,0 mot 41,3`-jämförelsen.
+
+## 11. Vad som kan minska eller öka gapet
+
+**Kan minska reformens relativa merkostnad:**
+
+- dagens arbetsmarknadsfinansierade föräldralön och pensionspremier,
+- dagens administration,
+- högre faktisk dagersättning i de tidiga år som står för majoriteten av uttaget,
+- eventuella dagar som 2017-kohorten tar ut efter åtta års ålder.
+
+**Kan öka reformens relativa merkostnad:**
+
+- högre korrekt semesterkostnad än vår nuvarande schablon,
+- högre pensionspremie/särskild löneskatt,
+- större behov av reservomsorg,
+- högre flerbarnskapacitet,
+- ny statlig administration.
+
+Dynamiska samhällsvinster ligger medvetet **utanför båda listorna** tills de kan kvantifieras robust.
+
+## 12. Nästa attack
+
+Tre saker har nu högst marginalvärde:
+
+1. **Åldersspecifik prissättning av dagens 424+ dagar.** Ett genomsnitt på 770 kr/dag är för grovt.
+2. **Semester + tjänstepension i reformen.** Tillsammans står de preliminärt för nästan 6 mdkr och måste källsäkras hårt.
+3. **Arbetsmarknadens nuvarande kostnad.** Den gamla 3,40-mdkrsposten får antingen få empiriskt stöd eller tas bort.
+
+Först därefter är det meningsfullt att lägga till skatt, arbetsgivaravgifter och dynamiska effekter.
+
+## 13. Uppdaterad dom
+
+Ekonomi 2.0:s slutsats att dagens direkta finansiering (~41,3 mdkr) och reformen (~40,0 mdkr) ligger nära varandra är **indragen som resultat**.
+
+Det vi nu vet är:
 
 - reformens rena grundlön för en 97 491-barnskohort är cirka **33,46 mdkr**,
-- observerad föräldrapenning 2025 var **33,686 mdkr** och dess statliga ålderspensionsavgift **3,552 mdkr**,
-- dessa tal får inte direkt kvittas mot varandra eftersom dagens årsutgift omfattar flera kohorter,
-- VAB/tillfällig föräldrapenning ligger utanför reformens ersatta kärna och ska inte bokföras som besparing,
-- arbetsmarknadsfinansierade kostnader ska redovisas som egen lagerpost tills de är empiriskt källsäkrade.
+- barn födda 2017 hade i genomsnitt använt **424 nettodagar** till och med åtta års ålder,
+- ett grovt 2025-prissatt scenario ger dagens föräldrapenning + statlig ålderspensionsavgift omkring **35,2 mdkr per 97 491 barn**,
+- reformen ser därför i nuläget **snarare ut att ha en direkt merkostnad än en direkt besparing**, innan dagens arbetsmarknadsfinansierade kostnader och andra lager räknas in,
+- VAB ligger fortsatt utanför reformens ersatta kärna.
 
-**Evidensstatus ekonomi efter denna revision: 6/10.**
+**Evidensstatus ekonomi: 6,5/10.**
 
-Poängen höjs från tidigare ungefär 5/10 eftersom de centrala statsbudgetankarna nu är verifierade och ett metodfel har identifierats. Den höjs inte mer förrän dagens system är omräknat kohortvis och reformens semester/pension/reservomsorg är källsäkrade.
+Vi har nu löst tidsdimensionsfelet och hittat ett starkt empiriskt kohortankare. För att nå 8/10 behöver framför allt åldersspecifik dagersättning samt reformens semester/pension källsäkras.
