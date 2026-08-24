@@ -2,165 +2,104 @@
 
 ## Syfte
 
-Målet är att undvika två motsatta designfel:
+Målet är att undvika två motsatta designfel: att Föräldraanställningen tar över funktioner som hör hemma i andra system, och att en verklig funktion i dagens föräldraförsäkring försvinner utan ägare. Analysen utgår från funktion, inte från dagens etiketter eller antal dagar.
 
-1. att Föräldraanställningen av misstag tar över funktioner som redan hör hemma i andra system,
-2. att en verklig funktion i dagens föräldraförsäkring försvinner utan att någon annan struktur bär den.
+## Kärnkarta
 
-Analysen utgår därför från funktion, inte från dagens etiketter eller antal dagar.
+| Funktion | Ägare i reformen | Bedömning |
+|---|---|---|
+| Huvudsaklig spädbarnsomsorg | **Föräldraanställningen** | Kärnuppdrag |
+| Försörjning under kärnomsorgen | **Omsorgslön** | Ersätter FP som princip |
+| Två personer nära födseln | **Separat samtidig startkapacitet** | Redan vald princip; exakt period forskningsbestäms |
+| Samtidig ledighet senare, enfött friskt barn | **Ingen automatisk motsvarighet** | Kräver belagt omsorgsbehov |
+| Flerbarn | **Skalad FTE-kapacitet** | Befintlig modell; nivåer ska evidensvalideras |
+| SGI-skydd | **SGI-systemet** | FP ska inte behövas som teknisk token |
+| Deltid senare | **Arbetsrätt** | 25 %-rätten behålls utan automatisk ersättning |
+| Sjukt barn | **VAB** | Separat system |
+| Förskola/fritids | **Barnomsorgssystemet** | Brister löses där |
+| Sen familjetid | **Ingen generell bank i K0** | Eventuell ny förmån måste motiveras separat |
 
-## Funktion för funktion
+## 1. Samtidig startkapacitet är redan löst som princip
 
-| Funktion i dagens system | Dagens mekanism | Ägare i reformen | Bedömning |
-|---|---|---|---|
-| Huvudsaklig omsorg om spädbarn | Föräldrapenning + föräldraledighet | **Föräldraanställningen** | Kärnuppdrag |
-| Försörjning under kärnomsorgen | SGI-baserad FP/lägstanivå | **Omsorgslön** | Ersätts helt som princip |
-| Ledighet från ordinarie arbete under kärnomsorgen | Föräldraledighetslagen | **Tjänstledighet kopplad till Föräldraanställningen** | Måste juridiskt kopplas ihop |
-| Två vuxna hemma nära födseln | 10-dagar + dubbeldagar | **Separat stöd-/övergångsfunktion** | Verklig funktion; får inte tappas |
-| Samtidig omsorg senare under första 15 månaderna | 60 dubbeldagar | **Öppen designfråga** | Måste prövas mot barn-/familjebehov, inte automatiskt kopieras |
-| Gravid person kan inte utföra ordinarie arbete | Graviditetspenning, sjukpenning, arbetsmiljö/omplacering | **Graviditets-/arbetsmiljö-/sjukförsäkringssystemen** | Utanför Föräldraanställningens kärna |
-| Frivillig ledighet före födseln | FP från 60 dagar före BF + särskild ledighetsrätt | **Separat graviditets-/arbetsrättslig fråga** | Ska inte konsumera barnets efterfödda omsorgsperiod utan uttryckligt skäl |
-| Skydd av tidigare SGI under/efter ledighet | SGI-skyddsregler + FP-uttag | **SGI-systemet** | FP ska inte behövas som teknisk SGI-token |
-| Deltid efter småbarnsperioden | Del-FP + 25 % ledighetsrätt utan FP | **Arbetsrätt** för ledigheten; eventuell inkomstförlust bärs normalt privat | 25 %-rätten behålls |
-| Sjukt barn | Tillfällig föräldrapenning/VAB | **VAB** | Behåll separat |
-| Förskoleinskolning | FP kan användas | **Övergång + intjänad semester** som baseline | Ingen egen dagbank utan visat glapp |
-| Förskola/fritids när föräldern arbetar | Kommunal/fristående barnomsorg | **Barnomsorgssystemet** | Brister löses där |
-| Sommar/jul/extra familjetid | Sena FP-dagar | **Ingen automatisk offentlig ersättning i K0** | Om politiskt önskad: separat barn-/familjeledighetsreform |
-| Omsorg av annan närstående/vän | Överlåtelse av FP, upp till 45 dagar per gemensam vårdnadshavare / 90 vid ensam vårdnad | **Behörighets-/reservomsorgsregler** | Funktion ska finnas där verkligt omsorgsbehov kräver det; dagens fria bank behöver inte kopieras |
-| Ensam vårdnadshavares hela rätt | 480 dagar till ensam vårdnadshavare | **100 % disposition av Föräldraanställningen** | Redan inbyggt |
-| Adoption | Separata tidsanknytningar i FP/ledighetsregler | **Separat adoptionsklocka** | Redan identifierat |
-| Flerbarnsfödsel | Fler FP-dagar + fler 10-dagar | **Kapacitetsförstärkning vid flerbarnsfödsel** | Kräver separat dimensionering |
-| Barn avlider | FP efter dödsfall + sorgedagar | **Sorg-/socialförsäkringssystem** | Ska inte modelleras som utfört omsorgsarbete |
-| Barn med särskilda behov/allvarlig sjukdom | VAB och andra stödformer | **Befintliga specialsystem** | Utanför generell Föräldraanställning |
+Dagens 10-dagar fyller en annan funktion än vanlig föräldrapenning: extra omsorgs- och stödkapacitet runt födseln. Reformen behandlar därför detta som en separat funktion från normalregeln om en Föräldraanställning åt gången.
 
-## Fynd 1 – 10-dagarna är inte bara en gammal detalj
+> **Under den initiala perioden kring födseln ska barnet/familjen ha rätt till samtidig kapacitet för två personer.**
 
-Den förälder som inte föder barnet kan idag få tillfällig föräldrapenning under 10 dagar i samband med födseln. En närstående kan i vissa situationer använda dagarna, exempelvis när den födande föräldern är ensamstående. Vid flerbarnsfödsel ges 10 dagar per barn.
+Dagens exakt 10 dagar är inte normerande. Periodens längd ska forskningsbestämmas utifrån återhämtning efter förlossning, etablering av omsorg, anknytning och praktiskt stöd. Kapaciteten får inte förutsätta partner eller privat nätverk; en ensamstående ska kunna använda annan behörig person eller offentlig lösning.
 
-Detta fyller en annan funktion än den vanliga föräldrapenningen: **extra omsorgs- och stödkapacitet runt själva födseln**.
+## 2. Flerbarn är redan modellerat som kapacitet
 
-Föräldraanställningens normalregel om en omsorgsanställning åt gången får därför inte av misstag avskaffa denna samtidiga kapacitet.
+Flerbarnsfödsel är inte en öppen arkitekturfråga. Reformen har redan denna preliminära FTE-modell:
 
-Reformen har redan en tänkt forskningsbaserad stödperiod kring förlossningen. Systemkartan stärker att den bör behandlas som en egen funktion och dimensioneras explicit.
+| Situation | 0–3 mån | 4–6 mån | 7–12 mån | Extra arbetsmånader |
+|---|---:|---:|---:|---:|
+| Ett barn | 1,00 | 1,00 | 1,00 | 0 |
+| Tvillingar | 1,75 | 1,50 | 1,25 | +5,25 |
+| Trillingar | 2,50 | 2,00 | 1,50 | +10,5 |
+| 4+ | individuell | individuell | individuell | individuell |
 
-## Fynd 2 – dubbeldagarna är en separat simultankapacitetsfråga
+Principen är viktigare än talen: **fler barn skalar samtidig omsorgskapacitet, inte lönen till samma person.** Extra kapacitet kan utföras av annan behörig person eller offentlig omsorg. Partner eller privat nätverk får aldrig vara ett krav. Exakta multiplikatorer är fortsatt 🟡 och ska valideras.
 
-Sedan juli 2024 kan två föräldrar använda upp till 60 dubbeldagar under barnets första 15 månader. Varje kalenderdag förbrukar då två FP-dagar.
+## 3. Vad återstår egentligen av dubbeldagarna?
 
-Det betyder att dagens system numera erbjuder betydligt mer samtidig föräldranärvaro än enbart de klassiska 10 dagarna kring födseln.
+Sedan juli 2024 kan två föräldrar använda upp till 60 dubbeldagar fram till 15 månader. Varje fullt utnyttjad dubbeldag använder två av barnets vanliga FP-dagar. Reformen tillförde alltså inte fler dagar utan ökade möjligheten att konsumera den befintliga banken samtidigt.
 
-Vi ska inte automatiskt kopiera 60 dubbeldagar. Men vi får inte heller jämföra en ensam Föräldraanställning med dagens system och glömma att dagens familjer faktiskt kan köpa **samtidig omsorgskapacitet** med dagbanken.
+När vi redan separerat ut startperioden, flerbarn, sjukdom/reservomsorg och särskilda behov blir frågan mycket smal:
 
-Öppen fråga:
+> **Har ett normalt enfött och friskt barn efter den initiala startperioden ett generellt omsorgsbehov som kräver två offentligt finansierade heltidskapaciteter samtidigt?**
 
-> Finns ett forsknings-/omsorgsmässigt behov av samtidig kapacitet efter den initiala stödperioden, eller är detta främst en värdefull privat flexibilitet?
+När 60-dagarsregeln infördes motiverades den framför allt med flexibilitet och valfrihet, gemensamt föräldraskap, tidig anknytning, att hitta rutiner, stöd mellan föräldrar samt möjlighet till gemensam ledighet inför exempelvis förskolestart. Regeringen bedömde att 60 dagar skulle möta majoriteten av barnfamiljernas behov/önskemål om samtidig ledighet. Det är viktiga värden, men propositionens motivering etablerar inte att ett enfött friskt barn generellt kräver 2,0 FTE omsorg efter startperioden.
 
-Detta bör stresstestas separat.
+### Preliminär slutsats K0
 
-## Fynd 3 – graviditeten ska inte gömmas inne i barnets omsorgsår
+**Ingen generell motsvarighet till dagens 60 dubbeldagar läggs in efter den forskningsbestämda startperioden.**
 
-Dagens FP kan tas ut redan 60 dagar före beräknad förlossning. Samtidigt finns graviditetspenning när ett fysiskt ansträngande eller riskfyllt arbete inte kan utföras och omplacering inte är möjlig. Graviditetspenningen kan för fysiskt ansträngande arbete normalt börja 60 dagar före BF och löper som längst till dag 11 före BF; därefter kan FP användas.
+Bevisbördan ligger på ett påvisbart omsorgsbehov. Om forskning visar att ett normalt enfött barn under någon senare fas faktiskt behöver mer än 1,0 samtidig offentlig omsorgskapacitet ska FTE-profilen ändras för den fasen – samma princip som flerbarnsmodellen. Om värdet främst är valfrihet, gemensam familjetid eller möjlighet för två föräldrar att vara hemma tillsammans ligger det utanför Föräldraanställningens kärnuppdrag.
 
-Föräldraledighetslagen ger dessutom den gravida arbetstagaren en särskild ledighetsrätt runt förlossningen.
+Det är inte ett påstående om att dubbeldagar saknar värde. Det är en klassificering av **vilket problem de löser**.
 
-Systemdesignmässigt är detta viktigt:
+**Status: 🟢 systemprincip, 🟡 evidens för exakt startperiod och eventuell senare kapacitetsprofil.**
 
-**barnets behov av individuell omsorg efter födseln och den gravidas behov av arbetsanpassning/ledighet före födseln är två olika problem.**
+## 4. Graviditeten ska inte gömmas i barnets omsorgsår
 
-Föräldraanställningens forskningsstyrda omsorgsperiod bör därför inte förkortas för att en gravid person behöver lämna arbetet före födseln. Graviditetsrelaterad arbetsförmåga och arbetsmiljö ska i första hand bäras av sina egna system.
+Barnets behov av individuell omsorg efter födseln och den gravidas behov av arbetsanpassning/ledighet före födseln är två olika problem. Föräldraanställningens forskningsstyrda omsorgsperiod ska därför inte förkortas för att en gravid person behöver lämna arbetet före födseln. Graviditetsrelaterad arbetsförmåga och arbetsmiljö bärs i första hand av sina egna system.
 
-Det kan däremot finnas ett legitimt separat behov av frivillig ledighet nära förlossningen även när personen inte är sjuk eller berättigad till graviditetspenning. Det ska kartläggas som en egen rättighet, inte gömmas i barnets omsorgsanställning.
+## 5. SGI är en teknisk koppling som bör kapas
 
-## Fynd 4 – SGI är en teknisk koppling som bör kapas
+FP-dagar fungerar idag även som verktyg för SGI-skydd. Föräldraanställningen ska inte återskapa detta. Legitima SGI-skydd under eller efter reformens omsorgsperiod ska skrivas direkt i SGI-reglerna.
 
-Efter barnets ettårsdag behöver en helt föräldraledig person normalt ta ut minst fem hela FP-dagar per vecka för att skydda sin SGI. Den som arbetar deltid behöver på motsvarande sätt fylla upp arbetstidsminskningen med FP för att behålla tidigare SGI.
+## 6. Arbetsrätt och ersättning separeras
 
-Detta gör att FP-dagar idag har en funktion som **SGI-bevarande token**, utöver att finansiera faktisk omsorg.
+Tre saker får inte blandas ihop: rätt att vara borta från ordinarie arbetsgivare under Föräldraanställningen, rätt att senare arbeta mindre och rätt till statlig ersättning. K0 behåller 25 %-rätten men skapar inte automatisk ersättning för den minskade arbetstiden. Den nuvarande rätten till hel obetald ledighet till 18 månader ska granskas som en separat arbetsrättslig valfrihetsfråga.
 
-Föräldraanställningen ska inte återskapa detta. Om en person omfattas av ett legitimt SGI-skydd under eller efter reformens omsorgsperiod ska det skrivas direkt i SGI-reglerna.
+## 7. Sena dagar
 
-Detta är ett tydligt exempel på principen: problem löses i systemet där de hör hemma.
+Efter att kärnomsorg, sjukdom, SGI, barnomsorg, arbetsrätt och inskolning sorterats till sina system återstår främst statligt finansierad tid med ett friskt äldre barn, exempelvis sommar och jul. K0 väljer tills vidare att inte ersätta denna funktion. Det är ett medvetet borttagande av en förmån, inte ett påstående om att familjetiden saknar privat värde.
 
-## Fynd 5 – arbetsrätten och ersättningen måste separeras
+## Kvarvarande stresstester
 
-Föräldraledighetslagen ger idag hel ledighet för vård av barn tills barnet är 18 månader även utan föräldrapenning. Därutöver finns hel/delvis ledighet kopplad till FP och en separat rätt att minska normal arbetstid med upp till 25 procent utan FP till lagens åldersgräns.
-
-För reformen betyder detta att tre saker inte får blandas ihop:
-
-1. rätt att vara borta från ordinarie arbetsgivare under Föräldraanställningen,
-2. rätt att senare arbeta mindre,
-3. rätt till statlig ersättning.
-
-K0 behåller 25 %-rätten men skapar inte automatiskt ersättning för den minskade arbetstiden.
-
-Den nuvarande generella 18-månadersrätten till hel ledighet utan FP behöver däremot granskas uttryckligen. Om Föräldraanställningens forskningsgrundade omsorgsperiod exempelvis blir 12 månader uppstår frågan om en fortsatt rätt att vara helt ledig ytterligare sex månader ska bestå som **obetald privat valfrihet**.
-
-Detta är inte ett finansieringsproblem, men det är en viktig arbetsrättslig designfråga som hittills inte varit tillräckligt explicit.
-
-## Fynd 6 – sena dagar är den enda stora funktion som K0 medvetet inte ersätter
-
-Efter att kärnomsorg, sjukdom, SGI, barnomsorg, arbetsrätt och inskolning sorterats till sina respektive system återstår främst möjligheten att använda statligt finansierad tid med ett friskt äldre barn – exempelvis sommar, jul och annan familjetid.
-
-K0 väljer tills vidare att inte ersätta denna funktion.
-
-Det är ett **medvetet borttagande av en förmån**, inte ett påstående om att funktionen saknar privat värde. Om sådan familjetid ska finansieras offentligt bör den införas och prissättas transparent som en egen förmån.
-
-## Funktioner som fortfarande kräver eget stresstest
-
-### A. Samtidig kapacitet efter födseln
-
-10-dagarna och de nya 60 dubbeldagarna visar att dagens system tillåter två vuxna hemma samtidigt. Vi behöver skilja mellan:
-
-- stöd till den födande föräldern,
-- barnets behov av två omsorgspersoner,
-- flerbarnsfödsel,
-- rent familje-/valfrihetsvärde.
-
-### B. Hel obetald ledighet 12–18 månader
-
-Om omsorgsanställningen slutar vid exempelvis 12 månader: ska föräldraledighetslagens rätt att vara helt ledig utan ersättning till 18 månader fortsätta?
-
-Det är förenligt med principen att familjen får välja senare förskolestart på egen bekostnad. Men konsekvenser för arbetsgivare, jämställdhet och arbetsmarknadsanknytning måste granskas.
-
-### C. Flerbarnsfödsel
-
-Dagens system ökar både FP-dagar och 10-dagar vid tvillingar/fler barn. Reformens kapacitetsmodell måste dimensioneras utifrån faktisk extra omsorgsbelastning snarare än genom mekanisk kopiering av dagens dagtal.
-
-### D. Före födseln
-
-Vi behöver en komplett karta över:
-
-- graviditetspenning,
-- sjukpenning,
-- arbetsmiljö/omplacering,
-- lagstadgad ledighet runt förlossning,
-- frivillig ledighet när inget medicinskt/arbetsmiljömässigt hinder finns.
-
-Målet är att barnets efterfödda omsorgsperiod inte ska behöva finansiera problem som uppstår före födseln.
+1. **Startperiodens längd:** två samtidiga kapaciteter är vald princip; längd och eventuell nedtrappning ska forskningsbestämmas.
+2. **Senare simultankapacitet:** sök evidens för >1,0 FTE för enfött friskt barn efter startperioden.
+3. **Hel obetald ledighet 12–18 månader:** pröva arbetsmarknads- och jämställdhetseffekter separat från finansieringen.
+4. **Före födseln:** kartlägg graviditetspenning, sjukpenning, arbetsmiljö/omplacering och frivillig ledighet.
 
 ## Preliminär systemarkitektur
 
-**Före födseln**
-→ arbetsmiljö + omplacering + graviditetspenning/sjukpenning + separat ledighetsrätt.
+**Före födseln** → arbetsmiljö + omplacering + graviditetspenning/sjukpenning + separat ledighetsrätt.
 
-**Runt födseln**
-→ Föräldraanställning startar vid barnets faktiska omsorgsbehov + explicit samtidig stöd-/omsorgskapacitet.
+**Runt födseln** → Föräldraanställning + explicit samtidig startkapacitet för två.
 
-**Kärnperioden**
-→ Föräldraanställning med omsorgslön, semester, pension och arbetsrättsligt skydd.
+**Flerbarn** → skalad FTE-kapacitet enligt befintlig flerbarnsmodell.
 
-**Efter kärnperioden**
-→ intjänad semester → ordinarie barnomsorg/arbetsliv; VAB, SGI och arbetsrätt fortsätter i respektive system.
+**Kärnperioden** → normalt 1,0 FTE för enfött friskt barn efter startperioden om inte evidens visar annat.
 
-**Sen generell betald familjetid**
-→ ingen sådan bank i K0.
+**Efter kärnperioden** → intjänad semester → ordinarie barnomsorg/arbetsliv; VAB, SGI och arbetsrätt fortsätter i respektive system.
+
+**Sen generell betald familjetid** → ingen sådan bank i K0.
 
 ## Källor
 
-- Försäkringskassan, Föräldrapenning: https://www.forsakringskassan.se/privatperson/familj-och-barn/foraldrapenning
-- Försäkringskassan, Föräldralediga tillsammans – dubbeldagar: https://www.forsakringskassan.se/privatperson/familj-och-barn/foraldrapenning/foraldralediga-tillsammans-dubbeldagar
-- Försäkringskassan, 10-dagar efter födsel eller adoption: https://www.forsakringskassan.se/privatperson/familj-och-barn/10-dagar-efter-fodsel-eller-adoption
-- Försäkringskassan, Gravid och kan inte jobba – graviditetspenning: https://www.forsakringskassan.se/privatperson/familj-och-barn/gravid-och-kan-inte-jobba-graviditetspenning
-- Försäkringskassan, SGI: https://www.forsakringskassan.se/privatperson/sjukpenninggrundande-inkomst-sgi
-- Föräldraledighetslag (1995:584): https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/foraldraledighetslag-1995584_sfs-1995-584/
-- Försäkringskassan, överlåtelse av föräldrapenning: https://www.forsakringskassan.se/privatperson/familj-och-barn/foraldrapenning/fora-over-eller-ta-tillbaka-dagar-med-foraldrapenning
+- Försäkringskassan, Föräldrapenning och dubbeldagar.
+- Regeringen, Budgetpropositionen för 2024, utgiftsområde 12, avsnitt 3.9.3.
+- Försäkringskassan, graviditetspenning och SGI.
+- Föräldraledighetslag (1995:584).
