@@ -4,11 +4,31 @@
 
 Föräldraanställningen ska nu behandlas som ett sammanhängande reformförslag som måste tåla extern granskning, inte som en samling idéer som ska försvaras.
 
-Det innebär tre regler:
+Målet är **inte** att göra förslaget vattentätt innan andra får se det. Målet är att göra det granskningsbart.
+
+Ett område är redo att lämnas vidare för kvalificerad extern kritik när det är:
+
+> **sammanhängande → transparent med antaganden → källbelagt → explicit om osäkerheter → tillräckligt konkret för att någon kunnig ska kunna attackera det.**
+
+Det innebär fyra regler:
 
 1. Kärnmodellen ändras när evidens eller systemlogik kräver det.
 2. Normalregler dimensioneras för den stora majoriteten; mycket sällsynta edge cases dokumenteras separat och får inte deformera huvudsystemet.
 3. Öppna juridiska, ekonomiska och operativa frågor ska vara synliga i stället för att döljas bakom falsk precision.
+4. När en fråga uppfyller granskningsstandarden ovan men fortsatt säkerhet kräver specialistkompetens ska den märkas **EXTERN REVIEW** i stället för att hållas kvar i intern analys på obestämd tid.
+
+## Granskningsstandard
+
+Varje större del av reformen ska, innan extern review, kunna presenteras i sex lager:
+
+1. **Förslag** – vad modellen faktiskt gör i normalfallet.
+2. **Syfte** – vilket konkret problem regeln löser och för vem.
+3. **Antaganden** – vilka empiriska, juridiska eller ekonomiska premisser slutsatsen bygger på.
+4. **Evidens** – primärkällor och relevant forskning, med tydlig skillnad mellan vad källorna visar och vår egen slutsats.
+5. **Osäkerheter och alternativ** – vad vi inte vet, vilka rimliga alternativ som finns och varför huvudkandidaten ändå valts.
+6. **Attackyta** – de starkaste invändningarna eller frågor en kunnig kritiker bör försöka falsifiera.
+
+En sektion behöver inte ha slutgiltigt svar på sin attackyta. Tvärtom är en tydlig attackyta ett tecken på att materialet är moget för extern granskning.
 
 ## Aktuell kärnarkitektur
 
@@ -54,6 +74,33 @@ Nuvarande arbetspunkt för normalfallet är:
 - Full juridisk semesterkonstruktion och dess ekonomiska behandling.
 - Synk mellan Föräldraanställningens slut och SGI, a-kassa, Arbetsförmedlingen, studier och ordinarie arbetsgivare.
 
+## EXTERN REVIEW
+
+En fråga flyttas hit när intern analys har nått avtagande marginalnytta och nästa meningsfulla steg kräver domänexpertis.
+
+### Semester under Föräldraanställningen
+
+**Status: EXTERN REVIEW – arbetsrätt/EU-rätt.**
+
+**Huvudkandidat:** Föräldraanställningen ger en verklig semesterrätt. Semester får inte förbjudas eller reduceras till en automatisk kontantförmån. Förläggningen behöver däremot anpassas till omsorgsuppdragets särskilda karaktär så långt svensk och EU-rätt tillåter. Arbetstagaren ska ha en faktisk möjlighet att använda sin rätt; legitimt kvarvarande intjänad semester när visstidsanställningen upphör slutregleras enligt tillämpliga regler.
+
+**Antaganden:**
+- EU-rätten kräver minst fyra veckors betald årlig semester och artikel 7 omfattas inte av de vanliga artikel 17-undantagen för självstyrt arbete/family workers.
+- EU-rätten kräver att arbetsgivaren faktiskt möjliggör semester men inte att arbetstagaren tvingas ta den.
+- Ekonomisk ersättning för kvarvarande semester är tillåten när anställningen upphör.
+- Svensk semesterlag kan ge särskilt utrymme kring förläggningen för okontrollerat arbete, men själva semesterrätten kvarstår.
+
+**Osäkerhet:** Det är inte fastställt om en på förhand tidsbegränsad omsorgsanställning på cirka 13 månader kan utformas enligt huvudkandidaten utan att konstruktionen i praktiken anses kringgå semesterändamålet.
+
+**Attackyta för extern jurist:**
+1. Kräver svensk eller EU-rätt i praktiken att en sådan 13-månadersanställning innehåller faktisk uttagen semester, även om arbetstagaren efter full information frivilligt avstår?
+2. Hur långt kan semesterförläggningen specialregleras för ett självständigt omsorgsuppdrag i hemmet?
+3. Vilka delar kan regleras i lag respektive kollektivavtal?
+4. Är vanlig statlig anställning en olämplig juridisk bärare därför att den importerar rättigheter eller kollektivavtal som inte passar uppdraget?
+5. Finns en renare särskild offentlig omsorgsstatus som uppfyller samma materiella skydd utan att skapa konstgjorda konflikter?
+
+Detta är tillräckligt konkret för extern attack. Propositionen ska inte låtsas att frågan är löst innan sådan granskning skett.
+
 ## Normalfall och edge cases
 
 Systemresan på GitHub Pages ska i första hand visa representativa normalfall och vanligt förekommande störningar. Exempel är två arbetande föräldrar, ensamstående, arbetslös, egenföretagare, adoption, flerbarn, sjuk omsorgsarbetare och saknad förskoleplats.
@@ -62,7 +109,7 @@ Mycket sällsynta kombinationer – exempelvis ett nytt biologiskt syskon som f�
 
 ## Remissgrindar
 
-Förslaget bör inte beskrivas som remissfärdigt förrän följande grindar passerats:
+Förslaget bör inte beskrivas som remissfärdigt förrän följande grindar passerats. En grind kan innehålla frågor märkta EXTERN REVIEW; poängen är då att frågan är tillräckligt väl definierad för att rätt expert ska kunna avgöra den.
 
 ### Grind A – barn och omsorg
 
@@ -73,7 +120,7 @@ Förslaget bör inte beskrivas som remissfärdigt förrän följande grindar pas
 
 ### Grind B – arbetsrätt och juridisk bärare
 
-- semester löst utan dubbelräkning eller dold förlängning,
+- semester formulerad till granskningsbar huvudkandidat och externt juridiskt prövad,
 - tjänstledighet från ordinarie arbetsgivare definierad,
 - arbetsmiljöansvar och statligt arbetsgivarskap juridiskt hållbara,
 - EU-/EES- och diskrimineringsfrågor genomgångna.
