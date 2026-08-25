@@ -8,7 +8,7 @@
   section.innerHTML=`<div class="wrap">
     <span class="eyebrow">SYSTEMRESA • QA-VY</span>
     <h2>Välj en resa genom hela modellen</h2>
-    <p class="intro">Följ barnet och omsorgsarbetaren genom reformen. Lägg på händelser för att se vilket system som tar ansvar, var modellen är stabil och var vi fortfarande har riktiga designluckor.</p>
+    <p class="intro">Följ barnet och omsorgsarbetaren genom reformen. Lägg på relevanta händelser för att se vilket system som tar ansvar, var modellen är stabil och var vi fortfarande har riktiga designluckor. Mycket sällsynta edge cases hålls utanför normalvyn.</p>
     <div class="journeyShell">
       <div class="journeyControls">
         <label class="journeyLabel" for="journeyType">Grundresa</label>
@@ -24,7 +24,6 @@
           <legend>Lägg på händelser</legend>
           <label><input type="checkbox" id="eventSick"> Omsorgsarbetaren blir sjuk</label>
           <label><input type="checkbox" id="eventSlot"> Förskoleplatsen är inte klar</label>
-          <label><input type="checkbox" id="eventSibling"> Nytt syskon föds under året</label>
           <label><input type="checkbox" id="eventHoliday"> Ettårsbrytningen träffar jul/stängning</label>
         </fieldset>
       </div>
@@ -61,8 +60,7 @@
     people:'Proposition 02 – behörighet och personkrets',
     after:'Proposition 06 – efter omsorgsåret',
     research:'Underlag – övergång/förskolestart',
-    reserve:'Underlag – reservomsorg och administration',
-    legal:'Underlag – arbetsgivarbegreppet'
+    reserve:'Underlag – reservomsorg och administration'
   };
 
   function baseSteps(type){
@@ -86,9 +84,6 @@
     const extra=[];
     if(document.getElementById('eventSick').checked){
       extra.push({after:'Huvudsakligt omsorgsarbete',step:{title:'Omsorgsarbetaren blir sjuk',status:'open',owner:'Sjukskydd + reservomsorg',text:'Den vuxnes sjukskydd är konceptuellt separerat från barnets fortsatta omsorg. Den operativa fallback-kedjan och svarstiden för offentlig reservkapacitet är ännu inte låsta.',ref:refs.reserve}});
-    }
-    if(document.getElementById('eventSibling').checked){
-      extra.push({after:'Huvudsakligt omsorgsarbete',step:{title:'Nytt syskon föds',status:'open',owner:'Två samtidiga omsorgsrätter',text:'Två barns individuella omsorgsrätter kan överlappa. Detta kolliderar med normalregeln om en omsorgsanställning åt gången och behöver ett eget kapacitets- och prioriteringsspår.',ref:refs.people}});
     }
     if(document.getElementById('eventSlot').checked){
       extra.push({after:'Förskoleplanering',step:{title:'Förskoleplatsen är inte klar',status:'open',owner:'Barnomsorgssystemet',text:'Principen är tydlig: ett kommunalt placeringsproblem ska inte automatiskt skriva om Föräldraanställningens grundregel. Den praktiska bryggan när plats faktiskt saknas behöver dock definieras.',ref:refs.after}});
@@ -137,6 +132,6 @@
     showDetail(steps[0],0);
   }
 
-  ['journeyType','eventSick','eventSlot','eventSibling','eventHoliday'].forEach(id=>document.getElementById(id).addEventListener('change',render));
+  ['journeyType','eventSick','eventSlot','eventHoliday'].forEach(id=>document.getElementById(id).addEventListener('change',render));
   render();
 })();
