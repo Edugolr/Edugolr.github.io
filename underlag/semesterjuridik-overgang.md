@@ -6,195 +6,188 @@ Kan Föräldraanställningen bestå av cirka 12 månaders huvudsakligt omsorgsar
 
 ## Kort slutsats
 
-**Semesterersättning vid anställningens upphörande är en verklig juridisk mekanism – men EU-rätten gör det svårt att medvetet designa en cirka 13 månader lång anställning där arbetstagaren aldrig ges en verklig möjlighet till betald rekreationsledighet och där all semester rutinmässigt löses ut i pengar vid slutet.**
+**Ja, semesterersättning vid anställningens upphörande är en verklig juridisk mekanism – men modellen får inte konstrueras så att arbetstagaren saknar en verklig möjlighet att ta betald årlig semester under anställningen.**
 
 Semesterlagen 28 § säger att om anställningen upphör innan arbetstagaren fått ut intjänad semesterlön ska arbetstagaren i stället få semesterersättning. Enligt 30 § ska den normalt betalas senast en månad efter anställningens upphörande.
 
-EU:s arbetstidsdirektiv 2003/88/EG artikel 7 kräver samtidigt minst fyra veckors betald årlig semester för varje arbetstagare. Artikel 7.2 tillåter ekonomisk ersättning i stället för miniminivån endast när anställningen upphör.
+EU-rätten kräver samtidigt minst fyra veckors betald årlig semester för varje arbetstagare. Artikel 17 i arbetstidsdirektivet medger flera undantag för självstyrt/okontrollerat arbete och nämner bland annat family workers, men **artikel 7 om årlig semester finns inte bland de artiklar som får undantas enligt artikel 17.1**. Detta är en viktig korrigering: arbetets familje-/självstyrda karaktär löser alltså inte bort den EU-rättsliga semesterrätten.
 
-EU-domstolen har dessutom betonat att arbetsgivaren faktiskt måste ge arbetstagaren möjlighet att ta ledigheten. En modell som från början är konstruerad så att arbetstagaren i praktiken inte kan ta semester och därför alltid får pengar vid slutet är därför juridiskt betydligt svagare än en modell där ledigheten faktiskt kan tas men kvarvarande rätt slutregleras när den tidsbegränsade anställningen upphör.
+Det innebär däremot inte att varje cirka 13 månader lång visstidsanställning måste innehålla exakt fyra påtvingade semesterveckor vid en viss tidpunkt. EU-domstolens praxis fokuserar på att arbetsgivaren faktiskt ska ha gjort det möjligt för arbetstagaren att ta ut semestern. Arbetsgivaren behöver inte tvinga arbetstagaren att ta den. När anställningen upphör skyddar artikel 7.2 rätten till ekonomisk ersättning för kvarvarande semester enligt de förutsättningar som utvecklats i rättspraxis.
 
-Det innebär att modellen inte behöver anta:
+Den centrala juridiska frågan för reformen är därför inte längre "måste staten lägga in fyra veckors reservomsorg?" utan:
 
-> 12 månader omsorg + 28 dagar övergång + 25 dagar semesterledighet efteråt.
+> **Kan en förutsägbar cirka 13 månader lång Föräldraanställning utformas så att omsorgsarbetaren har en verklig och praktiskt användbar rätt att ta semester, utan att normalmodellen kräver en obligatorisk semesterperiod mitt i barnets omsorgsår, och med slutreglering av legitimt kvarvarande semester när anställningen upphör?**
 
-Men den kan inte heller tryggt anta:
+Detta behöver extern arbetsrättslig/EU-rättslig granskning innan modellen låses.
 
-> 12 månader omsorg + 28 dagar övergång + ingen faktisk semestermöjlighet + automatisk kontant slutreglering för alla.
-
-## EU-rättens golv
-
-### Artikel 7 – minst fyra veckor
-
-Arbetstidsdirektiv 2003/88/EG artikel 7.1 kräver att varje arbetstagare får minst fyra veckors betald årlig semester enligt nationella regler om rätt och beviljande.
-
-Artikel 7.2 anger att denna minimiperiod inte får ersättas med pengar annat än när anställningen upphör.
-
-Detta är ett minimiskydd. Sverige får ge 25 dagar eller mer, men en särskild svensk konstruktion får inte urholka EU-golvet om omsorgsarbetaren juridiskt är arbetstagare.
-
-### EU-stadgan förstärker skyddet
-
-Artikel 31.2 i EU:s rättighetsstadga erkänner varje arbetstagares rätt till en årlig period av betald semester. EU-domstolen behandlar rätten som en särskilt viktig princip i unionens sociala rätt.
-
-Det betyder att en speciallag för Föräldraanställningen inte kan behandla semester som en valfri lönekomponent bara för att staten själv har skapat anställningsformen.
-
-### Pengar vid slut är tillåtna – men är en slutmekanism
-
-EU-domstolens praxis är tydlig om varför artikel 7.2 finns: när anställningen har upphört är faktisk semester inte längre möjlig, och arbetstagaren ska därför inte förlora den ekonomiska delen av den intjänade rätten.
-
-Domstolen har angett att rätten till ersättning i princip förutsätter två saker: anställningen har upphört och arbetstagaren har kvar betald semester som inte tagits ut.
-
-Det stärker vår tidigare slutsats att semesterersättning kan avsluta en kvarvarande fordran utan att skapa ytterligare anställningstid efter övergångsfasen.
-
-Det ger däremot inte stöd för att använda artikel 7.2 som ett planerat substitut för semesterledighet under hela anställningen.
-
-### Arbetsgivaren måste ge en verklig möjlighet att ta semester
-
-I Kreuziger (C-619/16) och parallell praxis slog EU-domstolen fast att arbetsgivaren måste säkerställa, konkret och transparent, att arbetstagaren faktiskt ges möjlighet att ta sin betalda semester. Arbetsgivaren behöver inte tvinga arbetstagaren att vara ledig, men ska aktivt möjliggöra ledigheten och informera om konsekvenserna av att inte ta den.
-
-Domstolen har samtidigt varnat för konstruktioner som uppmuntrar arbetstagare att avstå semester för att i stället få högre ekonomisk ersättning vid anställningens slut. Semester har ett självständigt syfte: vila och rekreation.
-
-För vår modell är detta centralt. Om staten både designar uppdraget och är arbetsgivare blir det svårt att hävda att omsorgsarbetaren hade en verklig möjlighet att ta semester om systemet samtidigt säger att barnet måste få kontinuerlig individuell omsorg och ingen ersättare finns.
-
-## Svensk rätt efter EU-testet
+## Vad lagen faktiskt säger
 
 ### 1. Semester är tre olika förmåner
 
-Semesterlagen 1 § skiljer mellan semesterledighet, semesterlön och semesterersättning. Ekonomisk kompensation vid slutet och rätten till faktisk ledighet under anställningen är alltså inte samma juridiska fråga.
+Semesterlagen 1 § skiljer mellan:
+
+- semesterledighet,
+- semesterlön,
+- semesterersättning.
+
+Det är viktigt för modellen. Ekonomisk kompensation vid slutet och rätten till faktisk ledighet under anställningen är inte samma juridiska fråga.
 
 ### 2. Grundrätten är 25 semesterdagar
 
-Semesterlagen 4 § ger normalt rätt till 25 semesterdagar varje semesterår. Den svenska nivån ligger därmed över EU:s fyra veckor.
+Semesterlagen 4 § ger normalt rätt till 25 semesterdagar per semesterår. Om anställningen påbörjas efter den 31 augusti under semesteråret är rätten det semesteråret fem dagar.
 
-Den gamla modellidén "25 dagar efter omsorgsåret" var ändå för grov. Semesterrätten beror på semesterår, starttidpunkt och eventuellt avtal; den är inte en universell slutklump som automatiskt uppstår efter tolv månader.
+Det betyder att den gamla modellidén "25 dagar efter omsorgsåret" var för grov. Semesterrätten beror på semesterår, anställningens start och tillämpligt avtal; den är inte en universell slutklump som automatiskt uppstår efter tolv månader.
 
 ### 3. Betalda dagar tjänas in proportionellt
 
-Semesterlagen 7 § beräknar dagar med semesterlön utifrån anställningstid under intjänandeåret. Föräldraanställningen är tänkt som betalt omsorgsarbete, inte ledighet från den statliga arbetsgivaren. Om den juridiskt är vanlig anställning genererar den därför semesterförmåner.
+Semesterlagen 7 § beräknar antalet dagar med semesterlön utifrån anställningstid under intjänandeåret, med avdrag för viss obetald frånvaro.
 
-### 4. Förläggningen är mer flexibel än själva rätten
+Föräldraanställningen är tänkt som **betalt omsorgsarbete**, inte ledighet från den statliga arbetsgivaren. Om den juridiskt konstrueras som vanlig anställning är huvudbilden därför att anställningstiden genererar semesterförmåner som annan betald anställning.
 
-Semesterlagen innehåller möjligheter att avtala om förläggning. 30 a § är särskilt intressant för arbete där arbetsgivaren inte kan anses ha uppgiften att vaka över hur arbetet är ordnat. Förarbetena till 2009 års semesterreform betonar att det avgörande är arbetsgivarens bristande kontroll, inte att arbetet råkar utföras i hemmet.
+### 4. Arbetsgivaren styr i sista hand förläggningen
 
-Men 30 a § säger uttryckligen att avvikelsen inte får inskränka arbetstagarens rätt att ta ut 25 semesterdagar eller det lägre antal dagar personen har rätt till. Den löser därför **när och hur**, inte **om** semester ska kunna tas.
+Enligt 10–12 §§ ska semester förhandlas/samrådas om, men om parterna inte kommer överens bestämmer arbetsgivaren i princip förläggningen. Huvudregeln är minst fyra veckors sammanhängande ledighet juni–augusti, om inte annat avtalats eller särskilda skäl finns.
 
-### 5. Outtagen semester blir ersättning när anställningen slutar
+Detta är en konflikt med reformens materiella idé om kontinuerlig barnomsorg, men det är en **förläggningsfråga** som måste skiljas från den EU-rättsliga minirätten till semester.
 
-Semesterlagen 28–30 §§ ger den centrala slutmekanismen: kvarvarande intjänad semesterlön blir semesterersättning när anställningen upphör och ska normalt betalas inom en månad.
+### 5. Outtagen intjänad semester kan bli pengar när anställningen slutar
 
-Detta talar starkt emot en separat semesterperiod efter Föräldraanställningen.
+Semesterlagen 28 § är den centrala slutmekanismen: när anställningen upphör innan intjänad semesterlön tagits ut ska semesterersättning betalas i stället. 29 § anger beräkningsprincipen och 30 § kräver normalt betalning senast en månad efter anställningens upphörande.
 
-## Den verkliga designkonflikten
+Detta talar starkt emot att propositionen ska lägga en separat semesterperiod **efter** övergångsfasen.
 
-Barnperspektivet säger:
+## EU-rättens verkliga begränsning
 
-> Barnets huvudsakliga omsorg ska inte slumpmässigt avbrytas flera veckor därför att kalendern säger semester.
+### Artikel 7 kan inte undantas genom artikel 17
 
-Arbetstagarperspektivet och EU-rätten säger:
+Arbetstidsdirektiv 2003/88/EG artikel 7 kräver minst fyra veckors betald årlig semester. Artikel 17.1 tillåter för vissa självstyrda arbeten – uttryckligen bland annat family workers – avvikelser från artiklarna 3–6, 8 och 16. Artikel 7 finns inte i den listan.
 
-> Omsorgsarbetaren ska faktiskt kunna få betald vila och rekreation; pengar är inte generellt ett likvärdigt substitut under pågående anställning.
+Det betyder att en eventuell klassificering som självstyrt/okontrollerat familjearbete kan vara relevant för arbetstid och vila men **inte tar bort den EU-rättsliga semesterrätten**.
 
-Detta är inte ett argument mot Föräldraanställningen. Det betyder att **normalfallet behöver en semesterlösning som samtidigt säkrar barnets omsorg**.
+### Arbetsgivaren måste möjliggöra – inte framtvinga – uttag
 
-## Reviderade kandidater
+I Kreuziger (C-619/16) och Max-Planck (C-684/16) slog EU-domstolen fast att semester inte får gå förlorad automatiskt bara därför att arbetstagaren inte begärt den. Arbetsgivaren måste kunna visa att arbetstagaren faktiskt fått möjlighet att ta semester, bland annat genom tydlig information och vid behov uppmaning.
 
-### Kandidat A – semester med annan behörig omsorgsperson
+Samtidigt säger domstolen uttryckligen att arbetsgivaren **inte behöver tvinga arbetstagaren att faktiskt ta semester**.
 
-Omsorgsarbetaren har rätt och faktisk möjlighet att ta semester under uppdraget. Under semesterperioden kan en annan redan behörig omsorgsperson tillfälligt bära omsorgsuppdraget.
+Detta är centralt för Föräldraanställningen. Det öppnar för en modell där semester är en verklig, användbar rättighet utan att staten automatiskt lägger in en obligatorisk fyraveckors frånvaroperiod i varje barns normalresa.
 
-**Styrka:** förenlig med semesterns verkliga rekreationssyfte och kräver inte automatiskt offentlig reservomsorg när familjen redan har två behöriga personer.
+### Slutreglering är en verklig rättighet
 
-**Svaghet:** normalregeln får inte förutsätta att partner eller annan privat person finns eller kan vara ledig. För ensamstående behövs därför ett annat spår.
+När anställningen väl upphör kan kvarvarande EU-rättslig semester ge rätt till ekonomisk ersättning. Comune di Copertino (C-218/22, 2024) bekräftar detta även för offentliganställda och även när arbetstagaren själv avslutar anställningen: offentliga budget- eller organisationsskäl kan inte i sig användas för att neka ersättning för kvarvarande semester.
 
-**Status: 🟡 stark komponent, inte universell lösning.**
+Det stärker slutreglering som en verklig komponent i modellen, men det är inte ett frikort att systematiskt göra semester omöjlig under anställningen.
 
-### Kandidat B – offentlig semesterreserv
+## Statlig anställning gör frågan större, inte mindre
 
-Omsorgsarbetaren tar faktisk semester och staten säkerställer tillfällig omsorg när ingen annan behörig person kan ta över.
+Om omsorgsarbetaren placeras direkt under det vanliga statliga avtalsområdet kan centrala Villkorsavtal bli relevanta. Arbetsgivarverket anger att dessa kompletterar semesterlagen och att årssemestern varierar med ålder och avtal.
 
-**Styrka:** universell och juridiskt renare ur arbetstagarperspektiv.
+Det gör en viktig sak tydlig:
 
-**Svaghet:** kan bli dyrt, skapa kontinuitetsproblem för mycket små barn och kräva en helt ny reservkapacitet för friska barn.
+> **Föräldraanställningen bör inte oreflekterat ärva hela det vanliga statliga kollektivavtalspaketet bara för att staten är arbetsgivare.**
 
-**Status: 🟠 möjlig men systemtung.**
+Det behöver utredas om den nya kategorin ska:
 
-### Kandidat C – särskild förläggning integrerad med barnets omsorgsresa
+1. ligga inom befintligt statligt kollektivavtalsområde,
+2. få ett särskilt centralt kollektivavtal,
+3. regleras genom särskild lag/offentlig omsorgsstatus med funktionellt motsvarande arbetstagarskydd.
 
-Semesterrätten behålls men förläggningen specialdesignas. Exempelvis kan faktisk semester koncentreras till en period där annan behörig omsorg redan är planerad eller där en stabil ersättningsrelation kan etableras. Kvarvarande rätt vid anställningens slut slutregleras enligt semesterlagens/EU-rättens regler.
+## Svensk möjlig ventil: okontrollerat arbete
 
-**Styrka:** försöker minimera reservsystemet utan att göra pengar till generell ersättning för rekreationsledighet.
+Semesterlagen 30 a § tillåter avtal om avvikelse från reglerna om **förläggning** av semesterledighet för arbetstagare som arbetar under sådana förhållanden att arbetsgivaren inte kan anses ha uppgiften att vaka över hur arbetet är ordnat.
 
-**Svaghet:** får inte bli en konstruktion där "möjligheten" till semester bara finns på papperet. EU-domstolens krav på faktisk möjlighet måste uppfyllas även för ensamstående och andra utan privat reserv.
+Detta är intressant eftersom Föräldraanställningen utförs i hemmet med mycket liten löpande arbetsledning.
 
-**Status: 🟡 starkaste huvudspår efter EU-testet.**
+Men bestämmelsen är inte en färdig lösning:
 
-### Kandidat D – särskild offentlig omsorgsstatus i stället för arbetstagare
+- det måste bedömas om omsorgsarbetet juridiskt uppfyller kriteriet,
+- avvikelsen får inte inskränka själva rätten till 25 dagar eller det lägre antal dagar arbetstagaren har rätt till,
+- den löser främst förläggningsreglerna, inte EU-rättens krav att semester ska vara en verkligt användbar rättighet.
 
-Om den juridiska bäraren inte är ett anställningsförhållande måste det separat prövas om personen ändå är en "worker" i EU-rättslig mening. Etiketten i svensk lag avgör inte ensam EU-rättens tillämpning.
+## Kandidater efter EU-stresstestet
 
-**Styrka:** kan undvika irrelevanta delar av vanligt statligt kollektivavtal.
+### Kandidat A – obligatorisk semester + separat reservomsorg i varje normalfall
 
-**Svaghet:** är **inte** en säker semester-genväg. En särskild status som materiellt ser ut som arbete under statens kontroll kan fortfarande omfattas av EU:s arbetstagarbegrepp och andra skyddsregler.
+Alla omsorgsarbetare måste ta en på förhand bestämd semesterperiod under uppdraget och staten ordnar ersättningsomsorg.
 
-**Status: 🟡 juridisk reservbärare, inte semesterlösning i sig.**
+**Problem:** inget i den rättspraxis som hittats visar att arbetsgivaren måste tvinga fram uttaget. Konstruktionen kan därför vara en kraftig överreaktion som skapar ett stort reservsystem utan visat juridiskt behov.
 
-## Ett nytt möjligt förenklingsspår
+**Status: 🔴 inte huvudkandidat.**
 
-Semesterproblemet och reservomsorgsproblemet bör inte analyseras som två helt separata system.
+### Kandidat B – semester förbjuds i praktiken och cashas rutinmässigt ut
 
-Om reformen ändå behöver en **begränsad reservomsorgsfunktion** för situationer där ordinarie omsorgsarbetare blir sjuk kan samma organisatoriska infrastruktur möjligen användas för planerad semester, med helt andra framförhållnings- och kontinuitetskrav.
+Administrativt rent men gör den faktiska semesterrätten illusorisk.
 
-Det betyder inte att akut sjukreserv och semesterreserv är samma tjänst. Men gemensam kapacitet, behörighetskontroll och introduktion kan minska ringarna på vattnet jämfört med två parallella system.
+**Problem:** kolliderar med artikel 7 och EU-domstolens krav på att arbetstagaren faktiskt ska ges möjlighet att ta semester.
 
-Detta ska kostnads- och barnkonsekvensprövas innan det blir en del av huvudmodellen.
+**Status: 🔴 bort som huvudkandidat.**
 
-## Statlig anställning och kollektivavtal
+### Kandidat C – verklig semesterrätt + specialiserad förläggning + slutreglering
 
-Om omsorgsarbetaren placeras direkt under det vanliga statliga avtalsområdet kan de centrala Villkorsavtalen ge mer semester än lagens 25 dagar. Föräldraanställningen bör därför inte oreflekterat ärva hela det vanliga statliga kollektivavtalspaketet bara för att staten är arbetsgivare.
+Omsorgsarbetaren har en faktisk rätt och praktisk möjlighet att begära/tillgodogöra sig semester. Förläggningsreglerna anpassas så långt svensk och EU-rätt tillåter till omsorgsuppdragets natur. Arbetsgivaren informerar aktivt om rätten och dokumenterar att möjligheten varit verklig. Kvarvarande legitim semester vid den tidsbegränsade anställningens slut slutregleras ekonomiskt.
 
-Det behöver utredas om kategorin ska ligga inom befintligt avtalsområde, få ett särskilt centralt kollektivavtal eller regleras genom särskild lag med funktionellt motsvarande arbetstagarskydd.
+**Öppen kärnfråga:** är detta tillräckligt i en anställningsform som från början är designad att normalt vara cirka 13 månader, eller skulle konstruktionen ändå bedömas som ett systematiskt kringgående av semesterändamålet?
 
-## STAVA löser inte automatiskt detta
+**Status: 🟡 starkaste huvudspår – kräver extern specialistgranskning.**
 
-Arbetsgivarverkets befintliga form "statlig visstidsanställning" (STAVA) är inte en generell etikett för all tidsbegränsad statlig anställning. Propositionen bör inte skriva som om STAVA redan är den juridiska lösningen.
+### Kandidat D – särskild offentlig omsorgsstatus
 
-## Uppdaterat preliminärt designbeslut
+Den materiella reformen behålls men den juridiska bäraren är inte nödvändigtvis en vanlig statlig anställning.
 
-1. **25 semesterdagar efter övergångsfasen är fortsatt borttaget som normalregel.**
-2. **Semesterersättning vid slutet är en slutregleringsmekanism, inte huvudsubstitut för faktisk semester.**
-3. **Föräldraanställningen måste ge en verklig möjlighet till betald rekreationsledighet om omsorgsarbetaren är arbetstagare.**
-4. **Särskild förläggning + planerad ersättningsomsorg är nu starkaste utredningsspåret.**
-5. **Reservkapacitet för sjukdom och semester ska utredas gemensamt organisatoriskt, utan att anta att samma praktiska process passar båda.**
-6. **En särskild offentlig omsorgsstatus får inte användas som ett sätt att etikettera bort EU-rättsliga arbetstagarrättigheter.**
-7. **Den materiella barnresan – cirka 12 månader omsorg + cirka 28 dagar övergång – ändras inte av detta stresstest.**
+**Problem:** även en alternativ status kan omfattas av EU:s arbetstagarbegrepp om relationen materiellt är arbete mot ersättning. Att byta etikett är därför inte en säker väg runt artikel 7 och bör inte användas som juridisk kosmetik.
+
+**Status: 🟡 reservspår.**
+
+## Vad vi nu vet – och vad vi inte ska försöka lösa själva
+
+### Relativt säkert
+
+- EU:s fyraveckorsrätt gäller i princip arbetstagare och artikel 17:s undantag omfattar inte artikel 7.
+- Arbetsgivaren måste skapa en verklig möjlighet till semester men behöver inte tvinga arbetstagaren att ta den.
+- Ekonomisk slutreglering av kvarvarande semester är en etablerad mekanism när anställningen upphör.
+- 25 extra omsorgsdagar efter övergången följer inte av dessa regler.
+
+### Specialistfrågor
+
+- om Föräldraanställningens mycket speciella arbetsform omfattas av 30 a § semesterlagen,
+- exakt hur långt en särskild svensk förläggningsregel kan gå,
+- om den förutsägbara visstidslängden påverkar bedömningen av arbetsgivarens skyldighet att möjliggöra uttag,
+- vilket kollektivavtalsområde som skulle gälla,
+- hur faktisk semester praktiskt kan erbjudas utan att skapa ett oproportionerligt parallellt omsorgssystem,
+- om en särskild offentlig omsorgsstatus materiellt ändå är ett EU-rättsligt anställningsförhållande.
+
+Detta är en naturlig gräns för intern modellering. Nästa steg bör vara **adversarial extern granskning av en arbetsrätts-/EU-rättsspecialist**, inte fler självsäkra interna antaganden.
+
+## Preliminärt designbeslut
+
+1. **25 semesterdagar efter övergångsfasen förblir borttagna som normalregel.**
+2. **Cirka 12 månader + cirka 28 dagar ligger kvar som den materiella barn-/omsorgsresan.**
+3. **Ingen obligatorisk semesterreserv byggs in i normalmodellen utan ytterligare juridiskt stöd.**
+4. **Kandidat C är huvudspår:** verklig semesterrätt, anpassad förläggning och legitim slutreglering.
+5. **Semesterfrågan markeras uttryckligen som specialistgrind inför remiss.**
+6. **Den juridiska bäraren hålls öppen utan att tro att ett namnbyte automatiskt undantar EU-rätt.**
 
 ## Konsekvens för ekonomimodellen
 
-Ekonomi 3.0 måste nu skilja mellan:
+Ekonomi 3.0 ska tills vidare separera:
 
 - lön och arbetsgivaravgifter under huvudsakligt omsorgsarbete,
 - lön och arbetsgivaravgifter under övergångsfasen,
-- faktisk betald semester under anställningen,
-- semesterersättning för kvarvarande rätt vid slutet,
-- eventuell ersättningsomsorg under faktisk semester,
-- möjlig samordningsvinst om samma reservinfrastruktur även används vid sjuk omsorgsarbetare.
+- en explicit men ännu osäker semesterkostnad,
+- reservomsorg för semester endast som scenario, inte som baseline.
 
-Det är alltså inte korrekt att bokföra "25 dagar semester" som en enkel extra månad efter barnets omsorgsresa. Men det är lika fel att sätta semesterkostnaden till noll bara för att anställningen är tidsbegränsad.
+Detta undviker både att gratisräkna bort en arbetsrättslig kostnad och att bygga in ett dyrt reservsystem innan juridiken faktiskt kräver det.
 
-## Källor för juridisk remiss
+## Källor för extern juridisk granskning
 
-- Europaparlamentets och rådets direktiv 2003/88/EG, artikel 7.
-- Europeiska unionens stadga om de grundläggande rättigheterna, artikel 31.2.
-- EU-domstolen, C-619/16, *Kreuziger v Land Berlin*, särskilt om arbetsgivarens skyldighet att faktiskt möjliggöra semester och ersättning vid anställningens slut.
-- EU-domstolens praxis om artikel 7.2 och semesterersättning vid anställningens upphörande.
-- Semesterlag (1977:480), särskilt 1–5, 7, 9–12, 28–30 a §§.
-- Prop. 2009/10:4, *Enklare semesterregler*, särskilt om arbetstagare vars arbete arbetsgivaren inte har till uppgift att övervaka.
-- Arbetsgivarverkets aktuella semester- och avtalsmaterial.
+- Direktiv 2003/88/EG, särskilt artikel 7 och artikel 17.
+- EU-stadgan artikel 31.2.
+- EU-domstolen C-619/16, *Kreuziger*.
+- EU-domstolen C-684/16, *Max-Planck/Shimizu*.
+- EU-domstolen C-218/22, *Comune di Copertino* (2024).
+- Semesterlag (1977:480), särskilt 1–5, 7, 10–12, 28–30 a §§.
+- Arbetsgivarverkets aktuella vägledning och relevanta Villkorsavtal.
 
-## Nästa attack
+## Extern granskningsfråga i en mening
 
-Nästa juridiska fråga är inte längre om semester kan trollas bort – det kan den inte. Frågan är:
-
-> **Kan vi designa en mycket enkel semester-/reservomsorgsmodell som ger omsorgsarbetaren verklig rekreationsledighet utan att skapa fem veckors kaotiska omsorgsbyten för barnet?**
-
-Det bör angripas tillsammans med forskning om kontinuitet, sekundära anknytningspersoner och tillfälliga omsorgsbyten under barnets första år.
+> **Kan svensk rätt, inom ramen för artikel 7 i direktiv 2003/88 och artikel 31.2 i EU-stadgan, skapa en cirka 13 månader lång statlig omsorgsanställning där arbetstagaren har en verklig men särskilt förlagd semesterrätt och där legitimt kvarvarande semester slutregleras ekonomiskt när visstidsanställningen upphör – utan att semester måste läggas som en obligatorisk extra omsorgsperiod?**
