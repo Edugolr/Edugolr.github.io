@@ -21,7 +21,7 @@ Dagens 480-dagarsbank bör inte behandlas som en enda odelbar rättighet. För a
 
 **A. Kärnomsorg.** Huvudsaklig individuell omsorg under barnets första period. Detta är föräldraanställningens direkta uppdrag.
 
-**B. Förlängd småbarnsomsorg.** Heltids-/deltidsledighet framför allt under 12–24 månader. Detta är en verklig funktion i dagens system, men den ska inte automatiskt återskapas. Först måste forskning avgöra hur länge barnet generellt behöver individuell omsorg. Om förskola därefter är den offentligt garanterade omsorgsformen är föräldrarnas önskan om senare förskolestart inte i sig ett krav på fortsatt offentlig finansiering av hemmavård.
+**B. Förlängd småbarnsomsorg.** Heltids-/deltidsledighet framför allt under 12–24 månader. Detta är en verklig funktion i dagens system, men den ska inte automatiskt återskapas. Reformens nuvarande designhypotes är en tydlig 12-månadersgräns snarare än att finansiera hemmavaro upp mot cirka 18 månader. Den gränsen ska fortfarande stresstestas mot forskning om barnets behov och tillgänglig barnomsorg.
 
 **C. Sen familjeflexibilitet.** Sommarlov, jul, enstaka lediga dagar, deltidsuttag och inskolning. Dessa funktioner ska jämföras med vanlig semester, arbetstidsrätt, VAB och förskolans ansvar. Reformen ska inte skapa en ny generell dagbank enbart för att bevara dagens valfrihet.
 
@@ -31,11 +31,11 @@ Dagens 480-dagarsbank bör inte behandlas som en enda odelbar rättighet. För a
 
 Reformen garanterar **omsorg**, inte offentlig finansiering av varje val av omsorgsform.
 
-När den forskningsgrundade individuella omsorgsperioden är slut och barnet har tillgång till en godtagbar offentlig omsorgsform kan familjen fortfarande välja att vänta med förskolestart, arbeta mindre eller ordna annan omsorg. Det följer inte automatiskt att staten ska fortsätta finansiera hemmavård genom föräldraanställningen.
+När den individuella omsorgsperioden är slut och barnet har tillgång till en godtagbar offentlig omsorgsform kan familjen fortfarande välja att vänta med förskolestart, arbeta mindre eller ordna annan omsorg. Det följer inte automatiskt att staten ska fortsätta finansiera hemmavård genom föräldraanställningen.
 
-Om forskning däremot visar att barn generellt behöver en längre period av individuell omsorg ska **föräldraanställningen förlängas**. Längden ska alltså följa barnets behov, inte ett politiskt mål om vare sig maximal valfrihet eller minsta möjliga kostnad.
+Om forskning däremot visar att barn generellt behöver en längre period av individuell omsorg ska **föräldraanställningens längd omprövas**. Den nuvarande 12-månadersgränsen är därför en tydlig designhypotes, inte ett påstående om att exakt tolv månader redan är vetenskapligt fastställt.
 
-**Status: 🟢 princip, 🟡 forskningsgrundad brytpunkt.**
+**Status: 🟢 princip, 🟡 12-månadersgränsens empiriska hållbarhet.**
 
 ## 3.4 Ingen ny familjedagsbank i grundförslaget
 
@@ -45,7 +45,7 @@ Skälen är:
 
 - en stor del av sent uttag är koncentrerat till semester-/högtidsperioder,
 - en del historiskt uttag är regelinducerat,
-- inskolning kan hanteras i övergången/den intjänade semestern,
+- inskolning bör analyseras som ett avgränsat övergångsbehov snarare än som argument för en flerårig dagbank,
 - VAB ska fortsatt lösa sjukdomsrelaterade behov,
 - förskolan ska bära sitt eget omsorgsansvar,
 - vanlig semester och befintliga arbetstidsrätter är separata arbetslivsverktyg.
@@ -54,15 +54,31 @@ Detta är inte ett påstående om att dagens flexibilitet saknar värde. Det är
 
 **Status: 🟢 grundförslag, kan omprövas om ett konkret omsorgsgap visas.**
 
-## 3.5 25 % ledighetsrätt kvar
+## 3.5 Övergång efter omsorgsåret
 
-Rätten att förkorta normal arbetstid med upp till en fjärdedel behålls. Rätten följer föräldraledighetslagens åldersgräns och är inte beroende av uttag eller ersättning från Föräldraanställningen.
+Det finns ett separat praktiskt problem vid omsorgsårets slut: barnet kan behöva inskolning i förskola samtidigt som arbetstagaren ska ställa om från Föräldraanställningen och återgå till tidigare eller nytt arbete.
+
+Grundidén är därför en **betald övergångsperiod i direkt anslutning till omsorgsårets slut**. Den ska inte beskrivas som vanlig fri semester även om den ursprungliga 25-dagarstanken hämtats från semesterlogiken.
+
+**25 dagar är för närvarande endast en arbetshypotes. Det finns ännu ingen redovisad evidens för att just 25 dagar är rätt nivå.** Periodens existens och längd ska därför prövas empiriskt. Analysen ska kunna landa i noll dagar, en kortare period, 25 dagar eller en längre period beroende på vilket faktiskt problem som kan beläggas.
+
+Den styrande frågan är:
+
+> **Hur lång generell betald övergång, om någon, behövs för att göra övergången från omsorgsåret till ordinarie barnomsorg och arbetsliv robust?**
+
+Bedömningen ska särskilt väga in svensk inskolningspraxis, variation mellan barn, ensamstående, tillgången till förskoleplats, återgång till befintligt respektive nytt arbete, samspelet med vanlig semester och kostnaden för alternativa längder.
+
+**Status: 🟡 behov och längd ska beläggas; 25 dagar är scenario, inte beslut.**
+
+## 3.6 25 % ledighetsrätt kvar
+
+Rätten att förkorta normal arbetstid med upp till en fjärdedel behålls. Rätten följer föräldraledighetslagens åldersgräns och är inte beroende av uttag eller ersättning från Föräldraanstställningen.
 
 Det innebär att reformen skiljer mellan **rätten att arbeta mindre** och **rätten till offentlig ersättning för den minskade arbetstiden**. Föräldraanställningen ska inte behöva återskapa en sen ersättningsbank för att den arbetsrättsliga deltidsmöjligheten ska finnas kvar.
 
 **Status: 🟢 princip.**
 
-## 3.6 Jämställdhetskonsekvens som måste mätas
+## 3.7 Jämställdhetskonsekvens som måste mätas
 
 Dagens data visar att kvinnor tar en mycket stor del av dagarna under barnets första år medan mäns uttag är mer koncentrerat till det andra levnadsåret. Om reformens individuella omsorgsperiod blir kortare än den period där pappor idag tar en stor del av sin ledighet kan reformen påverka faktisk omsorgsfördelning även om omsorgslönen är helt könsneutral.
 
@@ -70,15 +86,15 @@ Dagens data visar att kvinnor tar en mycket stor del av dagarna under barnets f�
 
 **Status: 🟡 empirisk effekt.**
 
-## 3.7 Systemgräns mot barnomsorgen
+## 3.8 Systemgräns mot barnomsorgen
 
-Efter omsorgsperioden ska ordinarie barnomsorg bära sitt eget uppdrag. Föräldraanställningen ska inte kompensera ekonomiskt för att en kommun, huvudman eller annan del av välfärdssystemet misslyckas med ett ansvar som redan ligger där.
+Efter omsorgsperioden och en eventuell avgränsad övergång ska ordinarie barnomsorg bära sitt eget uppdrag. Föräldraanställningen ska inte kompensera ekonomiskt för att en kommun, huvudman eller annan del av välfärdssystemet misslyckas med ett ansvar som redan ligger där.
 
 Det gäller även strukturella frågor som omsorg på obekväm arbetstid, planerade stängningar och motsvarande tillgänglighetsproblem. Om ett sådant system har brister ska de identifieras och lösas inom rätt politikområde.
 
 Basarkitekturen är därför tills vidare:
 
-> **Föräldraanställning → intjänad semester → ordinarie arbetsliv och barnomsorg.**
+> **12 månader Föräldraanställning → empiriskt dimensionerad övergångsperiod → ordinarie arbetsliv och barnomsorg.**
 
 VAB, arbetsrätt och kompatibla SGI-regler fortsätter i sina respektive system. Ingen generell sen föräldradagbank läggs till enbart som reservlösning för problem utanför reformens uppdrag.
 
