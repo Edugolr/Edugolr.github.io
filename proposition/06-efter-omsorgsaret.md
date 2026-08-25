@@ -54,25 +54,48 @@ Detta är inte ett påstående om att dagens flexibilitet saknar värde. Det är
 
 **Status: 🟢 grundförslag, kan omprövas om ett konkret omsorgsgap visas.**
 
-## 3.5 Övergång efter omsorgsåret
+## 3.5 Barnstyrd övergång efter omsorgsåret
 
-Det finns ett separat praktiskt problem vid omsorgsårets slut: barnet kan behöva inskolning i förskola samtidigt som arbetstagaren ska ställa om från Föräldraanställningen och återgå till tidigare eller nytt arbete.
+Övergången efter omsorgsåret ska designas i prioriteringsordningen **barnets behov → omsorgsarbetarens omställning → övriga system- och arbetsgivarintressen**.
 
-Grundidén är därför en **betald övergångsperiod i direkt anslutning till omsorgsårets slut**. Den ska inte beskrivas som vanlig fri semester även om den ursprungliga 25-dagarstanken hämtats från semesterlogiken.
+Forskning och svensk inskolningspraxis pekar preliminärt mot att barnets anpassning till förskola är en process över flera veckor, medan behovet av omsorgsarbetarens fulla närvaro är störst i början och därefter kan avta. Det talar emot att definiera övergången som ett fast antal hela semesterdagar.
 
-**25 dagar är för närvarande endast en arbetshypotes. Det finns ännu ingen redovisad evidens för att just 25 dagar är rätt nivå.** Periodens existens och längd ska därför prövas empiriskt. Analysen ska kunna landa i noll dagar, en kortare period, 25 dagar eller en längre period beroende på vilket faktiskt problem som kan beläggas.
+Den nuvarande huvudkandidaten är därför en **tidsmässigt skyddad och avtrappad övergång**, preliminärt omkring fyra veckor som forskningshypotes. Det är inte samma sak som fyra veckors heltidsledighet. Omsorgsarbetarens frigjorda arbetstid kan vara hög i början och minska när barnet etablerar trygghet och klarar längre dagar i den nya omsorgen.
 
-Den styrande frågan är:
+Exakta nivåer och avtrappning är inte beslutade. Ett illustrativt schema som 100 → 50 → 50 → 25 procent får användas för analys, men ska inte presenteras som modellbeslut innan evidensen är starkare.
 
-> **Hur lång generell betald övergång, om någon, behövs för att göra övergången från omsorgsåret till ordinarie barnomsorg och arbetsliv robust?**
+Den tidigare 25-dagarshypotesen ersätts därmed som huvudkandidat. **25 hela dagar har inte visats vara den relevanta enheten eller rätt omfattning.**
 
-Bedömningen ska särskilt väga in svensk inskolningspraxis, variation mellan barn, ensamstående, tillgången till förskoleplats, återgång till befintligt respektive nytt arbete, samspelet med vanlig semester och kostnaden för alternativa längder.
+### Kalendern styrs av barnet, inte arbetsveckan
 
-**Status: 🟡 behov och längd ska beläggas; 25 dagar är scenario, inte beslut.**
+Övergångens tidsfönster räknas i **kalendertid från omsorgsårets brytpunkt**, inte som måndag–fredag-dagar. Om brytpunkten infaller på en lördag, söndag eller helgdag börjar övergångsfönstret ändå där.
+
+Det gör konstruktionen neutral mellan kontorsarbete, skiftarbete, nattarbete och helgarbete. Barnets utvecklings- och anpassningsprocess ändras inte av omsorgsarbetarens arbetsschema.
+
+Arbetsschemat avgör i stället **vilken faktisk arbetstid som behöver frigöras inom övergångsfönstret**. Detta ska utredas juridiskt och administrativt så att modellen inte skapar ett dolt måndag–fredag-antagande.
+
+### Barnets övergång är universell; vuxnas destination varierar
+
+Övergången består analytiskt av två delar:
+
+1. **Barnets etablering i nästa omsorgsform.** Detta är det primära och universella behovet.
+2. **Omsorgsarbetarens omställning efter Föräldraanställningen.** Hur denna ser ut beror på personens faktiska destination.
+
+För en person med tidigare anställning innebär det successiv återgång till arbetet. För egenföretagare innebär det återgång till verksamheten. För studerande innebär det återgång till studier.
+
+För den som var arbetslös före Föräldraanställningen finns inget tidigare arbete att ”skolas tillbaka” till. Reformen ska därför inte konstruera en artificiell arbetslivsinskolning. Personen ska ha samma barnstyrda övergång och därefter gå över till ordinarie arbetsmarknadssystem och de krav som gäller där.
+
+Samma princip gäller andra destinationer: Föräldraanställningen ska möjliggöra barnets robusta övergång, men inte bära arbetslöshets-, utbildnings- eller näringspolitik längre än vad barnets övergång kräver.
+
+Den styrande principen blir:
+
+> **Barnets behov bestämmer övergångens tidsförlopp. Omsorgsarbetarens faktiska situation bestämmer hur övergången genomförs. Därefter tar respektive ordinarie system över.**
+
+**Status: 🟢 designprincip, 🟡 ungefärlig längd och avtrappningsprofil.**
 
 ## 3.6 25 % ledighetsrätt kvar
 
-Rätten att förkorta normal arbetstid med upp till en fjärdedel behålls. Rätten följer föräldraledighetslagens åldersgräns och är inte beroende av uttag eller ersättning från Föräldraanstställningen.
+Rätten att förkorta normal arbetstid med upp till en fjärdedel behålls. Rätten följer föräldraledighetslagens åldersgräns och är inte beroende av uttag eller ersättning från Föräldraanställningen.
 
 Det innebär att reformen skiljer mellan **rätten att arbeta mindre** och **rätten till offentlig ersättning för den minskade arbetstiden**. Föräldraanställningen ska inte behöva återskapa en sen ersättningsbank för att den arbetsrättsliga deltidsmöjligheten ska finnas kvar.
 
@@ -88,13 +111,13 @@ Dagens data visar att kvinnor tar en mycket stor del av dagarna under barnets f�
 
 ## 3.8 Systemgräns mot barnomsorgen
 
-Efter omsorgsperioden och en eventuell avgränsad övergång ska ordinarie barnomsorg bära sitt eget uppdrag. Föräldraanställningen ska inte kompensera ekonomiskt för att en kommun, huvudman eller annan del av välfärdssystemet misslyckas med ett ansvar som redan ligger där.
+Efter omsorgsperioden och den barnstyrda övergången ska ordinarie barnomsorg bära sitt eget uppdrag. Föräldraanställningen ska inte kompensera ekonomiskt för att en kommun, huvudman eller annan del av välfärdssystemet misslyckas med ett ansvar som redan ligger där.
 
 Det gäller även strukturella frågor som omsorg på obekväm arbetstid, planerade stängningar och motsvarande tillgänglighetsproblem. Om ett sådant system har brister ska de identifieras och lösas inom rätt politikområde.
 
 Basarkitekturen är därför tills vidare:
 
-> **12 månader Föräldraanställning → empiriskt dimensionerad övergångsperiod → ordinarie arbetsliv och barnomsorg.**
+> **12 månader Föräldraanställning → barnstyrd, empiriskt dimensionerad och avtrappad övergång → ordinarie barnomsorg samt relevant arbets-/studie-/arbetsmarknadssystem.**
 
 VAB, arbetsrätt och kompatibla SGI-regler fortsätter i sina respektive system. Ingen generell sen föräldradagbank läggs till enbart som reservlösning för problem utanför reformens uppdrag.
 
