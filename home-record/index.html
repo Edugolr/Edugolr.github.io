@@ -1,119 +1,24 @@
 <!doctype html>
 <html lang="sv">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Home Record — bostadens levande historik</title>
-  <meta name="description" content="Samla offentliga fakta, ägaruppgifter och evidens för en bostad i ett spårbart Home Record." />
-  <meta name="robots" content="noindex,nofollow" />
-  <link rel="stylesheet" href="./styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="refresh" content="0; url=https://home-record-dun.vercel.app/">
+  <link rel="canonical" href="https://home-record-dun.vercel.app/">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Home Record har flyttat</title>
+  <script>location.replace("https://home-record-dun.vercel.app/" + location.search + location.hash);</script>
+  <style>
+    html{color-scheme:dark;background:#0a0f0d;color:#f4f7f4;font-family:system-ui,sans-serif}
+    body{min-height:100vh;display:grid;place-items:center;margin:0;padding:24px}
+    main{max-width:560px}a{color:#8ee7ad}
+  </style>
 </head>
 <body>
-  <main class="shell">
-    <header class="topbar">
-      <div>
-        <div class="eyebrow">HOME RECORD · EXPERIMENT</div>
-        <h1>Vad vet vi faktiskt om bostaden?</h1>
-        <p class="lede">Samla registerfakta, lägg till det du själv vet och håll isär fakta, påståenden och sådant som fortfarande måste redas ut.</p>
-      </div>
-      <button id="resetBtn" class="button ghost" type="button">Återställ</button>
-    </header>
-
-    <section class="panel hero-panel">
-      <form id="collectForm" class="collect-form">
-        <label class="field address-field">
-          <span>Adress i Borås kommun</span>
-          <input id="addressInput" autocomplete="street-address" placeholder="Ex. Storgatan 12" required />
-        </label>
-        <button id="collectBtn" class="button primary" type="submit">
-          <span class="button-label">Samla automatiskt</span>
-          <span class="spinner" aria-hidden="true"></span>
-        </button>
-      </form>
-      <div id="collectorStatus" class="collector-status is-idle" aria-live="polite">
-        <div class="status-dot"></div>
-        <div>
-          <strong id="collectorHeadline">Redo att samla</strong>
-          <div id="collectorDetail">Vi frågar endast publika GIS-lager från Borås stad.</div>
-        </div>
-      </div>
-      <ol id="collectorSteps" class="steps" aria-label="Insamlingssteg">
-        <li data-step="address"><span>1</span><div><strong>Adress</strong><small>Hitta adresspunkten</small></div></li>
-        <li data-step="property"><span>2</span><div><strong>Fastighet</strong><small>Fastighetsbeteckning och yta</small></div></li>
-        <li data-step="building"><span>3</span><div><strong>Byggnad</strong><small>Byggår, typ och boarea</small></div></li>
-      </ol>
-    </section>
-
-    <section id="summary" class="summary-grid" hidden>
-      <article class="metric"><span>Registerfynd</span><strong id="foundCount">0</strong><small>från publika källor</small></article>
-      <article class="metric"><span>Ägaruppgifter</span><strong id="ownerCount">0</strong><small>som du lagt till</small></article>
-      <article class="metric warn"><span>Att reda ut</span><strong id="unknownCount">0</strong><small>konflikter och luckor</small></article>
-    </section>
-
-    <nav id="tabs" class="tabs" hidden aria-label="Home Record-vyer">
-      <button class="tab active" data-tab="resolve" type="button">Att reda ut</button>
-      <button class="tab" data-tab="record" type="button">Bostadspasset</button>
-      <button class="tab" data-tab="history" type="button">Historik</button>
-      <button class="tab" data-tab="sources" type="button">Källor</button>
-    </nav>
-
-    <section id="views" hidden>
-      <div class="view active" data-view="resolve">
-        <div class="view-heading">
-          <div><div class="eyebrow">NÄSTA BÄSTA ÅTGÄRD</div><h2 id="nextActionTitle">Komplettera bostaden</h2></div>
-          <p id="nextActionText">Ju fler viktiga uppgifter vi kan styrka, desto mer användbart blir passet.</p>
-        </div>
-        <div id="resolveList" class="card-list"></div>
-      </div>
-
-      <div class="view" data-view="record">
-        <div class="view-heading"><div><div class="eyebrow">HOME RECORD</div><h2 id="recordTitle">Bostad</h2></div><p>Varje värde visas tillsammans med hur vi vet det.</p></div>
-        <div id="recordGrid" class="record-grid"></div>
-        <article class="panel owner-panel">
-          <div class="panel-title-row"><div><div class="eyebrow">DET DU VET</div><h3>Lägg till en ägaruppgift</h3></div></div>
-          <form id="ownerClaimForm" class="owner-form">
-            <label class="field"><span>Vad gäller uppgiften?</span><select id="claimType"><option value="boarea">Boarea</option><option value="roof">Tak</option><option value="drainage">Dränering</option><option value="windows">Fönster</option><option value="heating">Värmesystem</option><option value="other">Annat</option></select></label>
-            <label class="field grow"><span>Uppgift</span><input id="claimValue" placeholder="Ex. 150 m² eller omlagt 2015" required /></label>
-            <button class="button secondary" type="submit">Lägg till</button>
-          </form>
-        </article>
-      </div>
-
-      <div class="view" data-view="history">
-        <div class="view-heading"><div><div class="eyebrow">TIDSLINJE</div><h2>Bostadens historik</h2></div><p>Registerhändelser och ägaruppgifter i samma tidslinje, men med tydlig källtyp.</p></div>
-        <div id="historyList" class="timeline"></div>
-      </div>
-
-      <div class="view" data-view="sources">
-        <div class="view-heading"><div><div class="eyebrow">PROVENANCE</div><h2>Så vet vi det</h2></div><p>Rådata försvinner inte bakom en AI-sammanfattning.</p></div>
-        <div id="sourceList" class="card-list"></div>
-      </div>
-    </section>
-
-    <section id="emptyState" class="empty-state">
-      <div class="empty-icon">⌂</div>
-      <h2>Börja med en adress</h2>
-      <p>Det första målet är enkelt: kan vi automatiskt hitta tillräckligt mycket sant för att du ska vilja fylla i resten?</p>
-    </section>
-
-    <footer>
-      <strong>Home Record experiment</strong> · Data sparas bara lokalt i din webbläsare. Publika registeruppgifter hämtas direkt från Borås stads ArcGIS-tjänster. · build 2026-09-27.3
-    </footer>
+  <main>
+    <h1>Home Record har flyttat.</h1>
+    <p>Du skickas vidare till den riktiga appen.</p>
+    <p><a href="https://home-record-dun.vercel.app/">Öppna Home Record</a></p>
   </main>
-
-  <dialog id="conflictDialog">
-    <form method="dialog" class="dialog-card">
-      <div class="eyebrow">KONFLIKT</div>
-      <h2>Vilken boarea ska vi lita på?</h2>
-      <p>Vi kastar inte bort någon uppgift. Ditt val anger bara vilken som ska vara primär tills bättre evidens finns.</p>
-      <div id="conflictOptions" class="choice-list"></div>
-      <menu>
-        <button value="cancel" class="button ghost">Avbryt</button>
-        <button id="saveConflictBtn" value="default" class="button primary">Spara val</button>
-      </menu>
-    </form>
-  </dialog>
-
-  <script src="./app-v3.js"></script>
 </body>
 </html>
