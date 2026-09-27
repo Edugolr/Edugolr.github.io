@@ -2,7 +2,8 @@ const STORAGE_KEY = "home-record-v2";
 const BASE = "https://kartportalen.boras.se/server/rest/services";
 
 const ENDPOINTS = {
-  address: `${BASE}/Grundinformation/MapServer/6432/query`,
+  addressGeocoder: `${BASE}/adresser_fb_geofir/GeocodeServer/findAddressCandidates`,
+  address: `${BASE}/Adresser/MapServer/0/query`,
   property: `${BASE}/Fastighetsytor_extern/MapServer/9/query`,
   building: `${BASE}/Grundinformation/MapServer/378/query`,
 };
@@ -80,21 +81,48 @@ async function collect(address) {
   try {
     setStep("address","active"); setCollector("running","Steg 1 av 3 — hittar adressen",shortAddress(address));
     const needle = shortAddress(address);
-    let addressData = await jsonp(ENDPOINTS.address, {
-      where:`BELADRESS2='${sqlEscape(needle)}'`, outFields:"ADRESSPLATS_ID,BELADRESS2", returnGeometry:"true", outSR:"3008"
+    let addressData = await jsonp(ENDPOINTS.addressGeocoder, {
+      SingleLine: needle,
+      outFields: "*",
+      outSR: "3008",
+      maxLocations: "8",
     });
-    if (!addressData.features?.length) {
-      addressData = await jsonp(ENDPOINTS.address, {
-        where:`BELADRESS2 LIKE '${sqlEscape(needle)}%'`, outFields:"ADRESSPLATS_ID,BELADRESS2", returnGeometry:"true", outSR:"3008"
+
+    let addressCandidate = (addressData.candidates || [])
+      .filter(candidate => Number.isFinite(Number(candidate?.location?.x)) && Number.isFinite(Number(candidate?.location?.y)))
+      .sort((a,b) => (Number(b.score)||0) - (Number(a.score)||0))[0];
+
+    if (!addressCandidate) {
+      const fallbackData = await jsonp(ENDPOINTS.address, {
+        where:`BELADRESS2='${sqlEscape(needle)}'`,
+        outFields:"ADRESSPLATS_ID,BELADRESS2",
+        returnGeometry:"true",
+        outSR:"3008"
       });
+      const fallbackFeature = (fallbackData.features || []).find(feature =>
+        Number.isFinite(Number(feature?.geometry?.x)) && Number.isFinite(Number(feature?.geometry?.y))
+      );
+      if (fallbackFeature) {
+        addressCandidate = {
+          address: fallbackFeature.attributes?.BELADRESS2 || needle,
+          location: fallbackFeature.geometry,
+          score: 100,
+        };
+        addressData = fallbackData;
+      }
     }
-    if (!addressData.features?.length) throw new Error(`Ingen adress träffade “${needle}”. Prova exakt gatuadress utan postnummer.`);
-    const addressFeature = addressData.features[0];
-    const point = addressFeature.geometry;
-    if (!point?.x || !point?.y) throw new Error("Adressen hittades men saknade koordinat.");
+
+    if (!addressCandidate) throw new Error(`Adressen hittades inte med användbar kartposition. Prova exakt gatuadress utan postnummer.`);
+
+    const point = {
+      x: Number(addressCandidate.location.x),
+      y: Number(addressCandidate.location.y),
+    };
     state.raw.address = addressData; setStep("address","done");
-    state.publicClaims.push(claim("address","Adress",addressFeature.attributes.BELADRESS2,"FACT","Borås stad · Adresser"));
-    state.sources.push(source("address","Borås stad · Adresser",ENDPOINTS.address,"Publik adresspunkt",addressData));
+    state.publicClaims.push(claim("address","Adress",addressCandidate.address || needle,"FACT","Borås stad · Adressgeokodare"));
+    state.sources.push(source("address","Borås stad · Adressgeokodare",ENDPOINTS.addressGeocoder,"Publik adressökning med koordinat",{
+      features: [addressCandidate]
+    }));
 
     setStep("property","active"); setCollector("running","Steg 2 av 3 — identifierar fastigheten","Slår adresspunkten mot fastighetsytorna.");
     const propertyData = await jsonp(ENDPOINTS.property, {
